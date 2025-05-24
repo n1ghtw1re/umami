@@ -1,0 +1,6 @@
+// Prisma schema for PostgreSQL. See db/postgresql/schema.prisma for the actual schema.
+// This file is required for Netlify/Prisma build compatibility.
+// Do not edit directly; edit db/postgresql/schema.prisma instead.
+
+// The following line will import the actual schema for local development tools, but is ignored by Prisma CLI.
+// import ../db/postgresql/schema.prisma
